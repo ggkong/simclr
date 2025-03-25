@@ -1,0 +1,6 @@
+*.log
+fine_tune/test_split
+fine_tune/train_split
+checkpoints
+finetune_checkpoints
+train_images
